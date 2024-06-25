@@ -1,0 +1,14 @@
+
+body{
+  background: url("_1.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+#contact{
+  box-shadow:  7px 3px 10px black;
+  }
+#contact:hover{
+  box-shadow:  7px 6px 8px lightgreen;
+  }
+.h1{
+    color: hsl(34, 100%, 91%);
+  }  
