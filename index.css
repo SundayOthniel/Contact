@@ -1,13 +1,13 @@
 
 body{
-  background: url("_1.jpg") no-repeat fixed center;
+  background: url("k.jpg") no-repeat fixed center;
   background-size: cover;
 }
 #contact{
-  box-shadow:  7px 3px 10px black;
+  box-shadow:  7px 3px 10px rgb(44, 43, 43);
   }
 #contact:hover{
-  box-shadow:  7px 6px 8px lightgreen;
+  box-shadow:  5px 5px 15px rgb(135, 156, 135);
   }
 .h1{
     color: hsl(34, 100%, 91%);
